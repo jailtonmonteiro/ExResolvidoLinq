@@ -1,0 +1,14 @@
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\net8.0\ExResolvidoLinq.exe
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\net8.0\ExResolvidoLinq.deps.json
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\net8.0\ExResolvidoLinq.runtimeconfig.json
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\net8.0\ExResolvidoLinq.dll
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\bin\Debug\net8.0\ExResolvidoLinq.pdb
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ExResolvidoLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ExResolvidoLinq.AssemblyInfoInputs.cache
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ExResolvidoLinq.AssemblyInfo.cs
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ExResolvidoLinq.csproj.CoreCompileInputs.cache
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ExResolvidoLinq.dll
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\refint\ExResolvidoLinq.dll
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ExResolvidoLinq.pdb
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ExResolvidoLinq.genruntimeconfig.cache
+E:\Cursos\CSharp\ExResolvidoLinq\ExResolvidoLinq\obj\Debug\net8.0\ref\ExResolvidoLinq.dll
